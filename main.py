@@ -8,7 +8,7 @@ from os import remove, path
 from time import sleep
 
 
-token = "1968458319:AAEod7XMwEIprViQ6BFn09gG9oRR7bjW7zk"
+token = "-"
 parsed_text = [[]]
 parsed_titles = []
 title_black_list = ["Классификация", "Аксессуары", "Примечания", "Литература", "Литература по теме", "Ссылки",
